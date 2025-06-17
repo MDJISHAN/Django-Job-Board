@@ -27,11 +27,11 @@ mysqlclient==2.2.7
 numpy==2.2.0
 openpyxl==3.1.5
 packaging==21.3
-pandas==2.2.3
+pandas
 pillow
 pipenv==2024.4.0
 platformdirs==4.3.6
-psycopg2-binary==2.9.10
+psycopg2-binary
 pycparser==2.20
 PyMySQL==1.1.1
 pyodbc==5.2.0
