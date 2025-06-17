@@ -33,7 +33,7 @@ pipenv
 platformdirs
 psycopg2-binary
 pycparser
-PyMySQ
+PyMySQL
 pyodbc
 pyOpenSSL
 pyparsing
