@@ -41,6 +41,8 @@ INSTALLED_APPS = [
     'account.apps.AccountConfig',
 
     #3rd Party App
+    'jobapp',
+    'account',
     'ckeditor',
     'taggit',
     'user_visit',
